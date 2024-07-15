@@ -1,44 +1,38 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
+# Grafos 2 - Resolução de Problemas
 
 **Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Grafos2<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0010495  |  Arthur Alves de Matos |
+| 17/0085023  |  Carla Rocha Cangussú |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+## Sobre
+O objetivo do projeto é responder questões disponíveis em juízes online sobre grafos, as questões serão de média e alta complexidade.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C<br>
+Linguagem: C
+Para a utilização do projeto, deve-se ter acesso ao compilador de linguagem C gcc.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Cada questão foi separada em uma pasta diferente e para executar os códigos de cada uma das questões é necessário a execução dos 3 seguintes comandos adaptados ao nome do arquivo de cada questão. Ex:
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+```sh
+    cd Trab1/Promessa\ de\ Campanha/
+    gcc -o 1835 1835.c
+    ./1835 < teste.txt
+```
+
+## Outros
+Para acessar os enunciados é necessário criar um login na plataforma Beecrowd, os links de cada enunciado estão presentes em:
+
+- []()
 
 
 
