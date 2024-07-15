@@ -1,6 +1,6 @@
 # Grafos 2 - Resolução de Problemas
 
-**Número da Lista**: X<br>
+**Número da Lista**: 13 <br>
 **Conteúdo da Disciplina**: Grafos2<br>
 
 ## Alunos
