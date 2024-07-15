@@ -13,7 +13,16 @@
 O objetivo do projeto é responder questões disponíveis em juízes online sobre grafos, as questões serão de média e alta complexidade.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+### Resultados dos Problemas em terminal
+A partir dos arquivos de testes `teste.txt` presentes em cada diretório, os seguintes resultados são apresentados
+
+#### BEE 2490 - Garoto Ixpertinho
+
+![2490](/screenshots/Ixpertinho.png)
+
+#### BEE 1469 - Chefe
+
+![1469](/screenshots/chefe.png)
 
 ## Instalação 
 **Linguagem**: C<br>
@@ -24,15 +33,20 @@ Para a utilização do projeto, deve-se ter acesso ao compilador de linguagem C 
 Cada questão foi separada em uma pasta diferente e para executar os códigos de cada uma das questões é necessário a execução dos 3 seguintes comandos adaptados ao nome do arquivo de cada questão. Ex:
 
 ```sh
-    cd Trab1/Promessa\ de\ Campanha/
-    gcc -o 1835 1835.c
-    ./1835 < teste.txt
+    cd Questoes/2490/
+    gcc -o 2490 2490.c
+    ./2490 < teste.txt
 ```
 
 ## Outros
 Para acessar os enunciados é necessário criar um login na plataforma Beecrowd, os links de cada enunciado estão presentes em:
 
-- []()
+- [BEE 2490 - Garoto Ixpertinho](https://judge.beecrowd.com/pt/problems/view/2490)
+- [BEE 1469 - Chefe](https://judge.beecrowd.com/pt/problems/view/1469)
+
+## Apresentações de resoluções
+
+Exemplificações em vídeo de aplicações entre os exercicios resolvidos.
 
 
 
