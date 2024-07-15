@@ -45,9 +45,7 @@ Para acessar os enunciados é necessário criar um login na plataforma Beecrowd,
 - [BEE 1469 - Chefe](https://judge.beecrowd.com/pt/problems/view/1469)
 
 ## Apresentações de resoluções
-
 Exemplificações em vídeo de aplicações entre os exercicios resolvidos.
 
-
-
+- [BEE 2490 - Garoto Ixpertinho](https://drive.google.com/file/d/1shyE1Sj0rMwNcEK6N0QU6Q34aWJ9IkJN/view)
 
