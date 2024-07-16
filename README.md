@@ -62,4 +62,4 @@ Para acessar os enunciados é necessário criar um login na plataforma Beecrowd,
 Exemplificações em vídeo de aplicações entre os exercicios resolvidos.
 
 - [BEE 2490 - Garoto Ixpertinho](https://drive.google.com/file/d/1shyE1Sj0rMwNcEK6N0QU6Q34aWJ9IkJN/view)
-
+- [O chão virou lava](https://unbbr.sharepoint.com/sites/Contaprivada/_layouts/15/stream.aspx?id=%2Fsites%2FContaprivada%2FDocumentos%20Compartilhados%2FGeneral%2FRecordings%2FReuni%C3%A3o%20em%20%5FGeneral%5F%2D20240716%5F003606%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E7975eeed%2D5fcd%2D4c78%2Da0f3%2D90ad07f968b2)
