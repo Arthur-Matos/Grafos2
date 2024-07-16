@@ -24,6 +24,12 @@ A partir dos arquivos de testes `teste.txt` presentes em cada diretório, os seg
 
 ![1469](/screenshots/chefe.png)
 
+#### BEE 1135 - Colônia das formigas
+![1135](/screenshots/formigas.png)
+
+#### BEE 1135 - Colônia das formigas
+![O chão virou lava](/screenshots/chao-e-lava.png)
+
 ## Instalação 
 **Linguagem**: C<br>
 Linguagem: C
@@ -43,6 +49,8 @@ Para acessar os enunciados é necessário criar um login na plataforma Beecrowd,
 
 - [BEE 2490 - Garoto Ixpertinho](https://judge.beecrowd.com/pt/problems/view/2490)
 - [BEE 1469 - Chefe](https://judge.beecrowd.com/pt/problems/view/1469)
+- [BEE 1135 - Colônia de Formigas](https://judge.beecrowd.com/pt/problems/view/1135)
+- [O chão virou lava](./Questoes/O%20chão%20virou%20lava/o_chao_e_lava.pdf)
 
 ## Apresentações de resoluções
 Exemplificações em vídeo de aplicações entre os exercicios resolvidos.
