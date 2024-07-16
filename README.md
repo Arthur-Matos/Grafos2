@@ -44,6 +44,12 @@ Cada questão foi separada em uma pasta diferente e para executar os códigos de
     ./2490 < teste.txt
 ```
 
+Para a questão O Chão virou lava use:
+```sh
+    cd Questoes/O\ chão\ virou\ lava/
+    gcc chao-e-lava.c -o chao-e-lava -lm
+    ./chao-e-lava < teste.txt
+```
 ## Outros
 Para acessar os enunciados é necessário criar um login na plataforma Beecrowd, os links de cada enunciado estão presentes em:
 
